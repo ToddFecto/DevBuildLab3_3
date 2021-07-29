@@ -87,7 +87,7 @@ namespace Lab3_2
                             Console.Write("Enter the new menu item name: ");
                             food = Console.ReadLine();
 
-                            //// Checks if the user entered CANCEL >>>go back to top menu
+                            //// Checks if the user entered CANCEL >>>go back to top menu and prompt for new choice
                             //if (food == "CANCEL")
                             //{
                             //    Console.WriteLine("You chose to Cancel this action and start again.");
